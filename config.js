@@ -1,6 +1,6 @@
-global.owner = ['6281915483630', '275664439611636'] // wajib di isi tidak boleh kosong
-global.mods  = ['6281915483630', '275664439611636'] // wajib di isi tidak boleh kosong
-global.prems = ['6281915483630', '275664439611636'] // wajib di isi tidak boleh kosong
+global.owner = ['6281915483630', '251900503048386'] // wajib di isi tidak boleh kosong
+global.mods  = ['6281915483630', '251900503048386'] // wajib di isi tidak boleh kosong
+global.prems = ['6283824770171', '251900503048386'] // wajib di isi tidak boleh kosong
 global.nameowner = 'MaddazRyu' // wajib di isi tidak boleh kosong
 global.numberowner = '6281915483630' // wajib di isi tidak boleh kosong
 global.mail = 'ahmasfaiz8@gmail.com' // wajib di isi tidak boleh kosong
