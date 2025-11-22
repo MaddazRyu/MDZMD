@@ -1,17 +1,17 @@
-global.owner = ['62895331520602', '275664439611636'] // wajib di isi tidak boleh kosong
-global.mods  = ['62895331520602', '275664439611636'] // wajib di isi tidak boleh kosong
-global.prems = ['62895331520602', '275664439611636'] // wajib di isi tidak boleh kosong
-global.nameowner = 'Tio' // wajib di isi tidak boleh kosong
-global.numberowner = '62895331520602' // wajib di isi tidak boleh kosong
-global.mail = 'support@tioprm.eu.org' // wajib di isi tidak boleh kosong
+global.owner = ['6281915483630', '275664439611636'] // wajib di isi tidak boleh kosong
+global.mods  = ['6281915483630', '275664439611636'] // wajib di isi tidak boleh kosong
+global.prems = ['6281915483630', '275664439611636'] // wajib di isi tidak boleh kosong
+global.nameowner = 'MaddazRyu' // wajib di isi tidak boleh kosong
+global.numberowner = '6281915483630' // wajib di isi tidak boleh kosong
+global.mail = 'ahmasfaiz8@gmail.com' // wajib di isi tidak boleh kosong
 global.gc = 'https://chat.whatsapp.com/I5RpePh2b5u37OyFjzCNTr' // wajib di isi tidak boleh kosong
-global.instagram = 'https://instagram.com/prm2.0' // wajib di isi tidak boleh kosong
-global.wm = '© BOTCAHX' // isi nama bot atau nama kalian
+global.instagram = 'https://instagram.com/tzy_tzy14' // wajib di isi tidak boleh kosong
+global.wm = '© 𝕄𝕒𝕕𝕕𝕒𝕫-ℝ𝕪𝕦' // isi nama bot atau nama kalian
 global.wait = '_*Tunggu sedang di proses...*_' // ini pesan simulasi loading
 global.eror = '_*Server Error*_' // ini pesan saat terjadi kesalahan
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*' // ini pesan simulasi saat loading pembuatan sticker
 global.packname = 'Made With' // watermark stikcker packname
-global.author = 'Bot WhatsApp' // watermark stikcker author
+global.author = '𝕄𝕒𝕕𝕕𝕒𝕫-ℝ𝕪𝕦' // watermark stikcker author
 global.maxwarn = '5' // Peringatan maksimum Warn
 
 global.autobio = false // Set true/false untuk mengaktifkan atau mematikan autobio (default: false)
@@ -21,7 +21,7 @@ global.gcspam = false // Set true/false untuk menutup grup ketika spam (default:
     
 
 // APIKEY INI WAJIB DI ISI! //
-global.btc = 'YOUR_APIKEY_HERE'
+global.btc = '7m4WhOEY'
 // Daftar terlebih dahulu https://api.botcahx.eu.org
     
 // AKSESKEY INI DI ISI JIKA DIPERLUKAN (e.g suno ai (ai music ) & fitur prem lainnya//
